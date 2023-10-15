@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sonerecords-3darchive/static/css/main.073c9b0a.css",
-    "main.js": "/sonerecords-3darchive/static/js/main.86569796.js",
+    "main.css": "/sonerecords-3darchive/static/css/main.b5a4a050.css",
+    "main.js": "/sonerecords-3darchive/static/js/main.1bce5c70.js",
     "static/js/787.b94a327f.chunk.js": "/sonerecords-3darchive/static/js/787.b94a327f.chunk.js",
-    "static/media/logo.svg": "/sonerecords-3darchive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Sonerecords20231014.glb": "/sonerecords-3darchive/static/media/Sonerecords20231014.2aef65efaee8dbcdcefc.glb",
     "index.html": "/sonerecords-3darchive/index.html",
-    "main.073c9b0a.css.map": "/sonerecords-3darchive/static/css/main.073c9b0a.css.map",
-    "main.86569796.js.map": "/sonerecords-3darchive/static/js/main.86569796.js.map",
+    "main.b5a4a050.css.map": "/sonerecords-3darchive/static/css/main.b5a4a050.css.map",
+    "main.1bce5c70.js.map": "/sonerecords-3darchive/static/js/main.1bce5c70.js.map",
     "787.b94a327f.chunk.js.map": "/sonerecords-3darchive/static/js/787.b94a327f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.86569796.js"
+    "static/css/main.b5a4a050.css",
+    "static/js/main.1bce5c70.js"
   ]
 }

@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.model-viewer-container {
+  width: 100%;  /* コンテナの幅を全体に広げる */
+}
+
+#my-model-viewer {
+  width: 100%;  /* 横幅を全体に広げる */
+  height: auto; /* 高さは自動的に設定 */
+  aspect-ratio: 16 / 9; /* アスペクト比を設定（オプション） */
+}
+
+.home__title {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.home__sentence {
+  font-size: 3.3rem;
+  font-weight: 700;
+  margin-top: 1rem;
+}
