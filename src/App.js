@@ -47,7 +47,7 @@ export default function App() {
       </Helmet>
       <div class="home__title">
             <div class="home__sentence">
-                Sone Records ゆりのき通り店舗 <br></br>3D Archive
+                Sone Records ゆりのき通り店舗<br></br>3D Archive
             </div>
         </div>
       <div className="model-viewer">
